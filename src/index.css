@@ -1,0 +1,41 @@
+body{
+    /* background-color: black; */
+    color: orange;
+
+}
+
+header{
+    background-color: var(--lp);
+    color: var(--a);
+    display: flex;
+    height: 120px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1{
+    font-size: 300%;
+    margin-left: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav li {
+    margin: 20px;
+}
+
+
+.Contact-Me{
+    align-items: center;
+}
+
+.Contact-Me h2{
+    padding-right: 1.8%;
+}
+
+.Contact-Me a{
+    margin: 5%;
+}
