@@ -1,0 +1,13 @@
+
+footer {
+    display: flex;
+    background-color: turquoise;
+    color: white;
+    justify-content: space-evenly;
+    margin-top: 3%;
+  }
+  
+  footer img {
+    width: 100px;
+    
+  }
