@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function PortHeader() {
     return (
 
@@ -9,16 +11,16 @@ export default function PortHeader() {
 <nav>
     <ul>
         <li>
-            <a href="#About-Me">About Me</a>
+            <Link to="/">About Me</Link>
         </li>
         <li>
-            <a href="#Work">Work</a>
+            <Link to="/mywork">My Work</Link>
         </li>
         <li>
-            <a href="#Contact-Me">Contact Me</a>
+            <Link to="/contact">Contact Me</Link>
         </li>
         <li>
-            <a href="#Resume">Resume</a>
+            <a href="/DennisHeitSoftwearResume.pdf" download>Download Resume</a>
         </li>
     </ul>
 </nav>

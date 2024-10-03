@@ -1,0 +1,19 @@
+.ApplicationsPage {
+    color: white;
+    text-align: center;
+  }
+  
+  .Applications img {
+    width: 45%;
+  }
+  
+  .Applications p {
+    margin: 1%;
+  }
+  
+  .repo h2 {
+    color: white;
+    border-bottom: solid 5px turquoise;
+    margin: 2%;
+    padding-bottom: 1%;
+  }

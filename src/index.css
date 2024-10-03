@@ -1,41 +1,190 @@
-body{
-    /* background-color: black; */
-    color: orange;
-
+body {
+  background-color: black;
 }
 
-header{
-    background-color: var(--lp);
-    color: var(--a);
-    display: flex;
-    height: 120px;
-    align-items: center;
-    justify-content: space-between;
-}
-
-h1{
-    font-size: 300%;
-    margin-left: 10px;
+header {
+  background-color: turquoise;
+  display: flex;
+  height: 120px;
+  align-items: center;
+  justify-content: space-between;
 }
 
 nav ul {
-    list-style-type: none;
-    display: flex;
+  list-style-type: none;
+  display: flex;
 }
 
 nav li {
-    margin: 20px;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 300%;
 }
 
 
-.Contact-Me{
-    align-items: center;
+
+
+/* .myWork {
+  color: white;
 }
 
-.Contact-Me h2{
-    padding-right: 1.8%;
+.work img {
+  border: dotted turquoise;
+  width: 100%;
 }
 
-.Contact-Me a{
-    margin: 5%;
+.work h3 {
+  color: turquoise;
 }
+
+.myWork h1 {
+  border-bottom: solid 5px turquoise;
+} */
+
+
+
+
+/* .BlogPage {
+  color: white;
+  text-align: center;
+}
+
+.blog img {
+  width: 45%;
+}
+
+.blog p {
+  margin: 1%;
+}
+
+.repo h2 {
+  color: white;
+  border-bottom: solid 5px turquoise;
+  margin: 2%;
+  padding-bottom: 1%;
+} */
+
+
+
+
+/* .About-Me {
+  color: white;
+}
+
+.ab {
+  color: white;
+  border-bottom: solid 5px turquoise;
+}
+
+.me {
+  width: 20%;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.skills {
+  text-align: center;
+  color: turquoise;
+}
+
+.meinfo {
+  text-align: center;
+  padding-top: 3%;
+  border-bottom: solid 5px turquoise;
+  padding-bottom: 3%;
+} */
+
+
+
+
+/* 
+.contact-form {
+  margin-top: 5%;
+}
+
+.Contact-Me {
+  color: white;
+}
+
+.ref {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  text-align: center;
+}
+
+.contact-item {
+  border: 2px solid turquoise;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.ref img {
+  width: 225px;
+}
+
+.Contact-Me h1 {
+  color: white;
+  text-align: center;
+  border-bottom: solid 5px turquoise;
+  padding-bottom: 1%;
+  margin-bottom: 5%;
+}
+
+
+.cm {
+  border: 2px solid turquoise;
+  border-radius: 5px;
+}
+
+.in {
+  text-align: center;
+  border-bottom: solid 3px turquoise;
+  padding: 1%;
+}
+
+.iso {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 3%;
+}
+
+.left, .right{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.lower {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-top: solid 2px turquoise;
+  padding: 2%;
+}
+
+textarea {
+  margin: 2%;
+  width: 40%;
+} */
+
+
+
+/* footer {
+  display: flex;
+  background-color: turquoise;
+  color: white;
+  justify-content: space-evenly;
+  margin-top: 3%;
+}
+
+footer img {
+  width: 100px;
+  
+} */

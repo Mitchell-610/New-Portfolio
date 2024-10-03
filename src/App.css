@@ -1,6 +1,9 @@
 .portfolio-app{
-    font-size: large;
-    /* background-color: white; */
-    
+    font-size: large;    
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
 }
 

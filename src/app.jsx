@@ -1,10 +1,12 @@
 import './App.css';
-import PortfolioContainer from './components/PortfolioContainer/';
+import { Outlet } from 'react-router-dom';
+import PortHeader from './components/cards/PortHeader';
 
 function App() {
   return (
     <div className="portfolio-app">
-      <PortfolioContainer />
+      <PortHeader />
+      <Outlet />
     </div>
   );
 }
