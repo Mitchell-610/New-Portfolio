@@ -1,6 +1,6 @@
 import React from 'react';
 import git from '../../pics/git.png'; 
-import linkdin from '../../pics/Linkdin.jpg';
+import linkdin from '../../pics/LinkdIn.jpg';
 import stack from '../../pics/stack.png'
 import './Footer.css'
 
