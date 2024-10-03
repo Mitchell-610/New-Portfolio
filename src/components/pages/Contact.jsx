@@ -1,4 +1,4 @@
-import linkdin from '../../pics/linkdIn.jpg'; // Make sure the path is correct
+import linkdin from '../../pics/linkdIn.jpg';
 import git from '../../pics/git.png';
 import ContactMe from './ContactMe';
 import stack from '../../pics/stack.png';
