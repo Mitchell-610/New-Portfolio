@@ -1,0 +1,16 @@
+.myWork {
+    color: white;
+  }
+  
+  .work img {
+    border: dotted turquoise;
+    width: 100%;
+  }
+  
+  .work h3 {
+    color: turquoise;
+  }
+  
+  .myWork h1 {
+    border-bottom: solid 5px turquoise;
+  }
