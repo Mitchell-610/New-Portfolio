@@ -33,6 +33,7 @@ export default function Contact() {
 
             </div>
             <div className="contact-form">
+                <ContactMe />
             </div>
         </div>
     );
