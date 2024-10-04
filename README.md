@@ -21,10 +21,13 @@ Hello this is my Portfolio.When you are presented with a page containing a heade
 Run npm I, if starting in the command line if needed.
 
 ## Usage
-Feel Free to message me.
+If needed run npm start in the command line.
+
+## Link to deployed application
+https://mitchellheitsportfolio.netlify.app/
 
 ## Contributing
-N/A
+Feel Free to message me.
 
 ## Tests
 N/A
