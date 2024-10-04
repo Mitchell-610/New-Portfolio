@@ -20,7 +20,7 @@ export default function PortHeader() {
             <Link to="/contact">Contact Me</Link>
         </li>
         <li>
-            <a href="/DennisHeitSoftwearResume.pdf" download>Download Resume</a>
+            <a href="/Dennis-Heit.pdf" download>Download Resume</a>
         </li>
     </ul>
 </nav>
