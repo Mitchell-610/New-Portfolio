@@ -34,9 +34,8 @@ h1 {
 
 @media screen and (max-width: 620px) {
   nav ul{
-    list-style-type: none;
-    display: flex;
-    margin: 0%;
-    padding: 0%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 5%;
   }
 }
