@@ -11,6 +11,10 @@
     margin: 1%;
   }
   
+.repo {
+  padding-bottom: 2%;
+}
+
   .repo h2 {
     color: white;
     border-bottom: solid 5px turquoise;
